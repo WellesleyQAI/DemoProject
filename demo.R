@@ -1,1 +1,2 @@
 #head(iris)
+dim(iris)
