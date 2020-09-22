@@ -1,1 +1,2 @@
 #head(iris)
+summary(iris)
